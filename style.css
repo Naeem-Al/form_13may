@@ -1,0 +1,289 @@
+.first_section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0F1F38;
+}
+
+.main {
+    width: 70%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.left {
+    width: 30%;
+    padding: 0 15px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    float: left;
+    background-color: #576373;
+    font-size: 25px;
+    color: white;
+    gap: 10px;
+}
+
+.sign_img {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5px;
+}
+
+.lsvg_image {
+    display: flex;
+    border: 2px solid white;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 0;
+
+}
+
+.rsvg_image {
+    display: flex;
+    border: 2px solid white;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 0;
+
+}
+
+.hr {
+    color: azure;
+}
+.linput_1 {
+    padding: 10px 0;
+}
+
+.linput_2 {
+    padding: 10px 0;
+
+}
+
+.linput_1 {
+    padding: 10px 0;
+    background-color: #576373;
+    color: white;
+    font-size: 15px;
+
+}
+
+.linput_1::placeholder {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    place-content: center;
+    text-align: center;
+
+}
+
+.linput_2 {
+    padding: 10px 0;
+    background-color: #576373;
+    color: white;
+    font-size: 15px;
+
+}
+
+.linput_2::placeholder {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    place-content: center;
+    text-align: center;
+
+}
+
+.linput_3 {
+    padding: 10px 0;
+    background-color: #576373;
+    color: white;
+    font-size: 15px;
+
+}
+
+.linput_3::placeholder {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    place-content: center;
+    text-align: center;
+
+}
+
+.login{
+    color: #f6ff00;
+}
+.signup{
+    color: #f6ff00;
+}
+
+.svg1 {
+    width: 8%;
+}
+
+.radio_btm_section {
+    gap: 5px;
+}
+
+.left_first_image {
+    background-color: #576373;
+
+}
+
+.right_first_image {
+    background-color: #576373;
+
+}
+
+.change {
+    color: #BBC02D;
+}
+
+
+
+.rinput_1::placeholder {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    place-content: center;
+    text-align: center;
+
+}
+
+.rinput_1 {
+    padding: 10px 0;
+    background-color: #576373;
+    color: white;
+    font-size: 15px;
+
+}
+
+.rinput_2::placeholder {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    place-content: center;
+    text-align: center;
+
+}
+
+.rinput_2 {
+    padding: 10px 0;
+    background-color: #576373;
+    color: white;
+    font-size: 15px;
+
+}
+
+.rinput_2 {
+    padding: 10px 0;
+}
+
+.rinput_3 {
+    padding: 10px 0;
+}
+
+
+
+.radio_btm_section {
+    display: flex;
+}
+
+.llable1 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.llable2 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.llable3 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+
+.rlable1 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.rlable2 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.first_btn {
+    background-color: #BBC030;
+    padding: 10px 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.second_btn{
+    background-color: #BBC030;
+    padding: 10px 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+
+
+.svg1 path {
+    fill: white;
+}
+
+.right {
+    width: 30%;
+    height: 55vh;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    float: right;
+    background-color: #576373;
+    font-size: 25px;
+    color: white;
+    gap: 10px;
+
+
+
+}
+
+.login_last {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
