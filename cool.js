@@ -1,6 +1,6 @@
 var button = document.getElementById('myButton');
 
-var button1 = document.getElementById('firsyButton');
+var button1 = document.getElementById('firstButton');
 
 
 
